@@ -3,4 +3,9 @@ oooooooooooooooooooooooo
 pppppppppppppppppppppppp
 qqqqqqqqqqqqqqqqqqqqqqqq
 wwwwwwwwwwwwwwwwwwwwwwww
-eeeeeeeeeeeeeeeeeeeeeeee
+gggggggggggggggggggggggg
+@interface person：NSObject
+{
+NSString *str = @"xiaoming";
+}
+@end;
